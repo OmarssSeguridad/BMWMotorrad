@@ -2,13 +2,10 @@
 <html>
 <meta charset="utf-8">
 <head>
-	<title>
-		Rutas
-	</title>
+  	<title>BMW Club Motorrad Metepec | Rutas</title>
 	<link rel="shortcut icon" type="image/x-icon" href="img/bmw.ico" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
 	<link rel="stylesheet" type="text/css" href="css/estilosOmi.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -30,21 +27,21 @@
 
 		<!-- Links -->
 		<ul class="navbar-nav">
-			<li class="nav-item">
-				<a class="nav-link" href="#">Inicio</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#">Quienes Somos</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#">Rutas</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#">Galeria</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#">Únete</a>
-			</li>
+		    <li class="nav-item">
+		      <a class="nav-link" href="home.php">Inicio</a>
+		    </li>
+		    <li class="nav-item">
+		      <a class="nav-link" href="nosotros.php">Quienes Somos</a>
+		    </li>
+		    <li class="nav-item">
+		      <a class="nav-link" href="rutas.php">Rutas</a>
+		    </li>
+		    <li class="nav-item">
+		      <a class="nav-link" href="galeria.php">Galeria</a>
+		    </li>
+		    <li class="nav-item">
+		      <a class="nav-link" href="unete.php">Únete</a>
+		    </li>
 		</ul>
 	</nav>
 

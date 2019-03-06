@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>BMW Club Motorrad Metepec</title>
+  <title>BMW Club Motorrad Metepec | Galeria</title>
   <link rel="shortcut icon" type="image/x-icon" href="img/bmwlogo.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
@@ -33,7 +33,7 @@
       <a class="nav-link" href="home.php">Inicio</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Quienes Somos</a>
+      <a class="nav-link" href="nosotros.php">Quienes Somos</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="rutas.php">Rutas</a>
