@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-<meta charset="utf-8">
 <head>
-  	<title>BMW Club Motorrad Metepec | Rutas</title>
+ 	<title>BMW Club Motorrad Metepec | Rutas</title>
 	<link rel="shortcut icon" type="image/x-icon" href="img/bmw.ico" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
@@ -97,9 +96,5 @@
 			</div>
 		</div>
 	</div>
-	
-
 </body>
-<script type="text/javascript" src="js/valbut.js"></script>
-<script type="text/javascript" src="js/slider.js"></script>
 </html>

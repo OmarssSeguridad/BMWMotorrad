@@ -120,25 +120,6 @@ a:hover{ color: white; }
   color: black;
   height: 2px;
 }
-
 .img{
     width: 150px; height: 100px;
 }
-
-hr.hrb{
-	border-color: blue;
-	border: 2%;
-	width: 100%;
-}
-
-h1.dia{
-	font-size: 600%;
-	font-weight: 700;
-}
-
-h6.h6f{
-	font-size: 150%;
-	font-weight: 500;
-}
-
-
