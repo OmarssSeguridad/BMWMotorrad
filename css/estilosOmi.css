@@ -120,3 +120,6 @@ a:hover{ color: white; }
   color: black;
   height: 2px;
 }
+.img{
+    width: 150px; height: 100px;
+}

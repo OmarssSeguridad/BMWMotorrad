@@ -33,7 +33,7 @@
       <a class="nav-link" href="#">Rutas</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Galeria</a>
+      <a class="nav-link" href="Galeria.php">Galeria</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="unete.php">Únete</a>
