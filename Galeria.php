@@ -30,16 +30,16 @@
   <!-- Links -->
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="#">Inicio</a>
+      <a class="nav-link" href="home.php">Inicio</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#">Quienes Somos</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Rutas</a>
+      <a class="nav-link" href="rutas.php">Rutas</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Galeria</a>
+      <a class="nav-link" href="galeria.php">Galeria</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="unete.php">Únete</a>
